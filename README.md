@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21311635.svg)](https://doi.org/10.5281/zenodo.21311635)
 # **Long-read sequencing bias against simple satellites**
 
 This repository contains supplementary files for the study **"Triplex DNA and inverted repeats cause long-read sequencing bias against satellite DNA."** The study investigates the causes of the biases of long read sequencing technologies ( **Nanopore and PacBio**) against simple satellites
