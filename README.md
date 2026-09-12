@@ -9,5 +9,5 @@ The repository is organized into two main directories:
 ### **Scripts/** – Data Processing and Analysis Scripts (Supplemental Code)
 This directory includes **Python, AWK, and Shell scripts** used for read coverage computation, statistical tests, and visualization. 
 
-### **Data/** – Processed Data for Figures and Tables  
-This directory contains **tabulated data** used in figures and statistical tests presented in the manuscript. 
+### **Data/** – Processed Data for Figures and Tables, and auxiliary files  
+This directory contains **tabulated data** used in figures and statistical tests presented in the manuscript, and auxiliary files required to run some scripts 
